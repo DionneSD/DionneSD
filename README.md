@@ -1,0 +1,3 @@
+- 👋 Hi, I’m DionneSD
+- 👀 I’m interested in rugby, drinking tea, the world :)
+- 🌱 I’m currently learning all things code.
