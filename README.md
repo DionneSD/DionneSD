@@ -28,7 +28,7 @@ I'm a junior full stack developer with a passion for building accessible web app
 
 **Developer & Software Coach** @ School of Code _(Apr 2022 - Present)_
 
-- Improved website accessibility and UX. Containerized production website for easier maintenance.
+- Improved website accessibility and UX. Containerised production website for easier maintenance.
 
 - Implemented student welfare tracking system, increasing retention. 
 
