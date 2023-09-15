@@ -1,6 +1,6 @@
 # Well hello there, I'm Dionne! 👋
 
-I'm a junior full stack developer with a passion for building accessible web applications. I'm curious, self-motivated, and love collaborating with others.
+I'm a full stack developer with a passion for building accessible web applications. I'm curious, self-motivated, and love collaborating with others.
 
 ## 🛠 Technical Skills
 
