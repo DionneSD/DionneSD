@@ -12,7 +12,7 @@ I'm a full stack developer with a passion for building accessible web applicatio
 
 **Libraries/Frameworks:** React, Node.js, Express, Jest, Cypress
 
-**Tools:** Git, Figma, Gatsby, RESTful APIs, Agile, Docker
+**Tools:** Git, Figma, RESTful APIs, Agile, Docker
 
 **Databases:** PostgreSQL
 
